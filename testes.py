@@ -51,7 +51,7 @@ if str.isdigit(decimal.replace(".","")) or str.isdigit(decimal.replace(",","")) 
  print("depois ",decimal)
  print(type(decimal))
 else:
- print(type(decimal))"""
+ print(type(decimal))
 
 usuarios = list()
 
@@ -71,3 +71,5 @@ while True:
   break
 
 print(usuarios)
+"""
+
